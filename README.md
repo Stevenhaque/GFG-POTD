@@ -1,2 +1,2 @@
 # GFG-POTD
-A repository for GFG-POTD solutions
+A repository for GFG-POTD solutions.
